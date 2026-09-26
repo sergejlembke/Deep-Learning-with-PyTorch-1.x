@@ -1,0 +1,9 @@
+/**/.ipynb_checkpoints
+.idea
+.vscode
+.DS_Store
+node_modules
+.git
+.env
+.venv
+__pycache__
